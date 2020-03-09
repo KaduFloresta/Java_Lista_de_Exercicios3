@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ListaTresExercicioUm",
+            "request": "launch",
+            "mainClass": "lista3.ListaTresExercicioUm"
+        }
+    ]
+}
