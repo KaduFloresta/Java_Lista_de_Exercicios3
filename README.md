@@ -1,6 +1,6 @@
 <img src="https://www.ead.senac.br/arquivo/api/download/publico/1134" alt="drawing" width="400"/><br>
 Análise e Desenvolvimento de Sistemas - Senac 2019
-# JAVASCRIPT - Lista de Exercicios 3
+# JAVA - Lista de Exercicios 3
 
 ## Instruções 
 1. Crie um programa que receba um valor e calcule a tabuada deste valor, salvando seu resultado em um arquivo de texto.
