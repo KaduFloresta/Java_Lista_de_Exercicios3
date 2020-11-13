@@ -5,11 +5,11 @@
  <img src="https://github.com/KaduFloresta/KaduFloresta/blob/main/img/profile.gif?raw=true" width="120px; alt=""/></b></a>  
  <br>
  
- <h3>:octocat: GitHub!</h3>
+<h3>:octocat: GitHub!</h3>
  <code><a href="https://github.com/KaduFloresta" title="HomeGit">🏠 - Home</a><br></code><br>
  <code><a href="https://github.com/KaduFloresta?tab=repositories" title="RepoGit">📂 - Repositories</a><br></code>
  
- <br>
+<br>
 
 <h3>⭐ Find me on the WEB!</h3>
 
@@ -22,6 +22,7 @@
 <hr>
 <a href="https://portal.sc.senac.br/portal/site/descontos-e-bolsas/senac-joinville"><img src="https://github.com/KaduFloresta/JavaScript_WebSite/raw/master/img/senac.png" alt="drawing" width="200"/></a><h5>Análise e Desenvolvimento de Sistemas - Senac 2020</h5> 
 
+---
 
 # JAVA - Lista de Exercicios 3
 
