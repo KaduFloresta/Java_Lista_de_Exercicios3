@@ -20,7 +20,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-cefloresta1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cefloresta1@gmail.com)](mailto:cefloresta1@gmail.com)
 
 <hr>
-![Análise e Desenvolvimento de Sistemas - Senac 2019](https://www.liveondemand.com.br/wp-content/uploads/2019/05/logo-SENAC.png)
+<a href="https://portal.sc.senac.br/portal/site/descontos-e-bolsas/senac-joinville">Análise e Desenvolvimento de Sistemas - Senac 2020<img src="https://github.com/KaduFloresta/JavaScript_WebSite/raw/master/img/senac.png" alt="drawing" width="200"/></a>  
+
 
 # JAVA - Lista de Exercicios 3
 
