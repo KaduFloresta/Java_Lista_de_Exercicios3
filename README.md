@@ -20,7 +20,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-cefloresta1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cefloresta1@gmail.com)](mailto:cefloresta1@gmail.com)
 
 <hr>
-<a href="https://portal.sc.senac.br/portal/site/descontos-e-bolsas/senac-joinville"><img src="https://github.com/KaduFloresta/JavaScript_WebSite/raw/master/img/senac.png" alt="drawing" width="200"/></a><h5>Análise e Desenvolvimento de Sistemas - Senac 2020</h5> 
+<a href="https://portal.sc.senac.br/portal/site/descontos-e-bolsas/senac-joinville"><img src="https://github.com/KaduFloresta/JavaScript_WebSite/raw/master/img/senac.png" alt="drawing" width="200"/></a><h5>Análise e Desenvolvimento de Sistemas - Senac 2019</h5> 
 
 ---
 
@@ -47,6 +47,8 @@
 
 10. Crie um programa que receba como entrada da classe Main o nome de um arquivo de texto que contenha valores numéricos e some todos os valores, imprimindo no console a soma.
 ---
-## DESAFIO
+**DESAFIO**
 
-* **11. Crie um Jogo da Forca com Arquivos de Texto.**
+11. Crie um Jogo da Forca com Arquivos de Texto.
+
+---
